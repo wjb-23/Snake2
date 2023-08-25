@@ -1,7 +1,7 @@
 # Snake 2.0
 James Bradley, Jason Shi, Sidney Langford
 
-This project is a remake of the classic game Snake. After choosing a snake and starting, the user uses the arrow keys to control the snake and attempt to eat rats. When a rat is eaten, the snake increases in size, the score increases by one, and a new rat randomly spawns. While the user attempts to eat rats, there are also hawks flying around the screen that can eat both rats and the snake. If the user gets enough points, they can move on to the next of three levels, each increasing in difficulty. If the snake collides with the wall of the map, an obstacle, a hawk, or itself then it's game over.
+This project is a remake of the classic game Snake. After choosing a snake and starting, the user can use the arrow keys to control the snake and attempt to eat rats. When a rat is eaten: the snake increases in size, the score increases by one, and a new rat randomly spawns. While the user attempts to eat rats, there are also hawks flying around the screen that can eat both rats and the snake. If the user gets enough points, they can move on to the next of three levels, each increasing in difficulty. If the snake collides with the wall of the map, an obstacle, a hawk, or itself then it's game over.
 
 Rather than animating the snake turning like we initally planned in our project proposal, we instead added hawks to the game to add difficulty and make gameplay more interesting rather than making each body segment change when it turns.
 
